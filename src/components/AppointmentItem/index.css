@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.appointment-list-container {
+  list-style-type: none;
+}
+
+.title-date-card-container {
+  border-radius: 14px;
+  border-width: 1px;
+  border-color: #b5b7c4;
+  border-style: solid;
+  background-color: transparent;
+  max-width: auto;
+  display: flex;
+  padding: 15px;
+  margin-right: 18px;
+}
+
+.card-title-heading {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: bold;
+  color: #171f46;
+}
+
+.card-date-para {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 400;
+  color: #b5b7c4;
+}
+
+.star-button {
+  background-color: transparent;
+  border-width: 0;
+  cursor: pointer;
+}
+
+.star-img-size {
+  margin-top: 10px;
+}
